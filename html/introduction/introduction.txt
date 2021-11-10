@@ -1,1 +1,51 @@
-This is my HTML introduction
+What is HTML?
+	HTML stands for Hyper Text Markup Language.
+	It is the standard language for creating a web pages.
+	It will describes the structure of web page.
+	It consists of several elements(approx 100 elements).
+	HTML element tells the broswer how to display the content.
+what is <!DOCTYPE html>?
+	<!DOCTYPE html> defines this is an HTML5 document.
+	It will compile according to HTML5 standards.
+What is <html>?
+	It is the root element of HTML page.
+What is <head>?
+	It contains the meta information about the HTML page.
+	The content which is written in this element will not be visible in the web page.
+What is <body>?
+	It defines documents body,it is a container for all visible content such as headings,paragraphs,images etc..
+What is <h1>?
+	It is defines the large heading.
+What is <p>?
+	It is defines the paragraph.
+What is HTML element?
+	It is defines the start tag,some content,end tag.
+	Syntax:
+		<tagname>some content</tagname>
+	Example:
+		<h1>This is head h1 tag</h1>
+		<p>This is a paragraph</p>
+What is Empty Elemnts?
+	Some elements have no content.
+	These elements are called as empty elements.
+	Empty elements have no end tag.
+What are the tags that doesn't have end tag?
+	br, img, etc...
+What is web browser?
+	The purpose of web browser is read the HTML documents and display them correctly.
+	A browser does not display the HTML tags,but uses them to determine how to display the document.
+	Note:
+		The content inside the body tag section is display in web browser.
+		The content inside the title tag will shown in browser title bar or page tab.
+What is Web Server?
+	//TODO
+What is difference between element and tag?
+What is the difference between web browser and web server?
+	web browser
+		It will be installed in client machine.
+		Example:
+			chrome, firefox, edge
+	Web Server
+		It will be installed in server machine.
+		Example:
+			Tomcat, Jboss, weblogic

@@ -1,0 +1,9 @@
+What is Software Development Life Cycle?
+	Phases
+		Req
+		Design
+		Development
+		Testing
+		Deployment
+		Support
+		
