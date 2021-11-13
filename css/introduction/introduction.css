@@ -1,0 +1,23 @@
+h1{
+	color:blue;
+	background-color:yellow;
+}
+p{
+	color:red;
+	text-align:center;
+}
+.para{
+	color:green;
+	background-color:skyblue;
+}
+.element{
+	color:brown;
+	font-size:40px;
+	background-color:yellow;
+}
+.attribute{
+	color:orange;
+	font-size:20px;
+	text-align:left;
+	
+}

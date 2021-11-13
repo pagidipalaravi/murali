@@ -1,0 +1,6 @@
+What is comment-tag?
+	HTML  comments are not displayed in the browser, but they can help document your HTML source code.
+	comment tag is used to describes hide content in HTML element.
+	It is denoted by exclamation symbol(!) start tag,but there is no end tag.
+	This comment tag is used to more than one line <!--content-->.
+	

@@ -1,0 +1,7 @@
+What is colors in HTML?
+	HTML colors are specified with predefined color names such as green, blue,green, brown,yellow etc..
+	In HTML, a color can be specified by using a color name.
+	colors applying for text color,background,border etc..
+	Syyntax:
+		-border
+		<h1 style="border:2px solid Tomato;">Hello World</h1>

@@ -1,0 +1,10 @@
+What is element?
+	Element is having start tag,some content,end tag.
+	Example:
+		<p>This is my first paragraph</p>
+	NOTE:
+		Never skip the end tag in HTML code.
+	some examples for html elements such as <html>,<body>,<p>,<h1>.
+	<html>-It is defines the root of an html document.
+	<body>-It is defines document's body.
+	<h1>to<h6>-It is defines the HTML tags.

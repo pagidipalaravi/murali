@@ -1,0 +1,9 @@
+What is attribute?
+	All HTML elements can have attributes.
+	All attibutes have additional information about the elements.
+	Attributes are always write in start tag.
+	<a>-It is describes the hyperlink of website.
+	<a>- It is describes the "anchor tag".
+	href is a attribute of anchor tag("<a>").
+	Example:
+		<a href=""https://www.w3schools.com">now visit to learn html tutorials in w3schools</a>

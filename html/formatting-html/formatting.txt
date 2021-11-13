@@ -1,0 +1,13 @@
+What is formatting?
+	It is used designed to display special types of text.
+	Types of formatting are
+		<b>-Bold 
+		<strong>-Important 
+		<i>-Italic text
+		<em>-Emphasized
+		<mark>-Marked
+		<small>-Smaller
+		<del>-Deleted 
+		<ins>-Inserted 
+		<sub>-Subscript 
+		<sup>-Superscript 

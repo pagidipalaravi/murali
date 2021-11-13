@@ -1,0 +1,8 @@
+What is <cite> quotation?
+	The HTML <cite> tag defines the title of a creative work.
+	Example:
+			a book, a poem, a movie, a painting etc..
+	Note:
+		A person's name is not the title of a work.
+		
+		The text in the <cite> element usually renders in italic.

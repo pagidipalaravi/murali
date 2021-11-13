@@ -1,0 +1,12 @@
+What is style attribute?
+	The HTML style attribute is used to add styles to an element, such as color, font-size and background color etc...
+	some of Examples of style attribute are-
+	-background-color
+	-color:red-It is used to  text color change in element.
+	-font-size:width and height.
+	-font-family:It is used to font family to html element.
+What is font size?
+	Font size is used to size of the text element of the content.
+	Syntax:
+	<h1 style="font-size:300%;"> This is font size</h1>
+	<p style="font-size:250%;">This is font size </p>

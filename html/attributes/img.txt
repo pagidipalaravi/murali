@@ -1,0 +1,15 @@
+What is <img> tag?
+	<img>-It is describes the image information OR image document file in html.
+	Image tag is having attribute,name as "src".
+	Syntax:
+		<img src="img_girl.jpg">
+	The <img> tag is should have width and height.
+	Syntax:
+		<img src="img_girl.jpg" width="250",height="500">
+What is alt attribute?
+	"alt attribute" is a alternate text for image.
+	when the image is break OR not seen image in browser page we use the alt attribute in img tag.
+	syntax:
+		<img src="img_girl.jpg" alt="img girl" >
+	
+	

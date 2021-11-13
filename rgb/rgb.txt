@@ -1,0 +1,9 @@
+What is rgb?
+	RGB is stands for red, green, blue colors
+	RGB having parameters 0 to 255.
+	rgb(255,255,255)-It is shows color like "white".
+	rgb(0,0,0)-It is shows color like "black".
+	rgba-"a" is a alpha channel(opacity).
+	alpha parameter are 0 to 0.1
+	HSL-stands for Hue, saturation, lightness.
+	HSLA-stands for Hue,Saturation,Lightness with alpha channel opacity.

@@ -1,0 +1,4 @@
+What is title attribute?
+	Title attribute is used to display the extra information about the element.
+	Syntax:
+		<h1 title="iam a header"> learn html code</h2>

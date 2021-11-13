@@ -1,0 +1,7 @@
+What is CSS?
+	CSS stands for cascading Style Sheets.
+	CSS is used to HTML element how to display style on screen,dispaly and browser screen.
+	CSS files is used in external style sheets.
+	It is used to multiple pages at once time in css.
+Why use CSS?
+	CSS is used to design the web pages,looking for web structure design beautiful.

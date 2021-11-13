@@ -1,0 +1,9 @@
+What is <p> paragraph?
+	It is describes the paragraph.
+	It is having start tag and end tag.
+	Syntax:
+		<p> some content</p>
+What is preserve tag?
+	<pre> it is used to new content line.
+	Syntax:
+		<pre> some content</pre>

@@ -38,8 +38,10 @@ What is web browser?
 		The content inside the body tag section is display in web browser.
 		The content inside the title tag will shown in browser title bar or page tab.
 What is Web Server?
-	//TODO
+	//TODO  
 What is difference between element and tag?
+	Element tag is having start tag,some content,end tag.
+	Tag is having only start tag and end tag.
 What is the difference between web browser and web server?
 	web browser
 		It will be installed in client machine.

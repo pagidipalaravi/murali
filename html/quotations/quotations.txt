@@ -1,0 +1,15 @@
+What is quotation?
+	It is describes the quotation and special text used to content.
+	Example:
+		" murali krishna"
+		we have different types quotations.They are
+		- <blockquote>
+		- <q> It is describes the double quotes("hyd")
+		- <abbr> It describes the abbrevation of name or fullform.
+		- <address> It is describes default text is italic. 
+		- <cite>
+		- <bdo> It describes the bi-directional-override.
+		Syntax:
+			<bdo dir="ltr">HTML</bdo>
+		output:
+				-LMTH

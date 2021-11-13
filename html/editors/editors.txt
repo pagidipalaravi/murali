@@ -1,0 +1,5 @@
+What is editors?
+	Editors are used to edit the HTML code such as notepad,notepad++.
+	After completing HTML code we can save the file as name html.
+	Example:
+			introduction.html

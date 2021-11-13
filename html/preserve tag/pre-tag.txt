@@ -1,0 +1,10 @@
+What is <pre>tag?
+	The HTML <pre> element defines preformatted text.
+	The text inside a <pre> element is displayed in a fixed-width font and it preserves both spaces and line breaks.
+	Syntax:
+		<pre>
+		html
+		css
+		javascript
+		</pre>
+	

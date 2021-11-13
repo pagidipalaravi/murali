@@ -1,0 +1,11 @@
+What is syntax in css?
+	CSS is having of selector and declaration block.
+	selector is describes the HTML element want to style.(<p>,<h1> etc..)
+	Declaration is describes the property name and property value.
+	The declaration block contains one or more declarations separated by semicolons.(;)
+	Each declaration block having property name and property value,separated by colon(:).
+	Syntax:
+		h1{
+		color:blue;
+		font-size:40px;
+		}
