@@ -1,1 +1,3 @@
 What is Putty?
+	Putty is a software ,it is used to connect server machine from client machine.	
+	To connect sever machine we need IP address and port.

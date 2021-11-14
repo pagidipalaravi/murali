@@ -1,0 +1,6 @@
+What is VPN?
+	VPN stands for Virtual Private Network.
+	VPN is used to connect server machine from local machine.
+	Examples:
+		Global protect VPN
+		Cisco VPN

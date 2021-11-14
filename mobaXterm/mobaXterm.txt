@@ -1,0 +1,5 @@
+What is mobaXterm?
+	MobaXterm is used to use GUI(graphical user interface) of server machine from the client machine.
+	we run the GUI application in LINUX OS by using mobaxterm. 
+	
+	

@@ -1,0 +1,28 @@
+h1{
+color:red;
+}
+.tag{
+	color:green;
+	background-color:yellow;
+}
+#element{
+	font-size:40px;
+	color:white;
+	background-color:black;
+	border: 5px solid brown;
+}
+p.m{
+	color:brown;
+	font-size:20px;
+}
+p.k{
+	color:blue;
+}
+p.mk{
+	font-size:20px;
+	background-color:green;
+}
+p,h3,h2{
+	color:gray;
+	font-size:20px;
+}

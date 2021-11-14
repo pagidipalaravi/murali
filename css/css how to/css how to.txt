@@ -1,0 +1,24 @@
+How to css?
+	The three ways of insert css
+		1.Internal css
+		2.Inline css
+		3.External css
+	1.Internal css
+		Internal css is used to inside <style> element.
+		Internal style sheet may be used if one single HTML page has a unique style.
+		Syntax:
+			<style>
+			p{
+			color:red;
+			}
+			</style>
+	2.Inline css
+		Inline css is used to apply a unique style for a single element.
+		The style attribute to the HTML element.
+		Syntax:
+			<p style="color:red">inline css<p>
+	3.External css
+		External css is used  change the look of an entire HTML element.
+		This is css applying to HTML file by using link tag.
+		Syntax:
+			<link rel="style.sheet" href="file name">

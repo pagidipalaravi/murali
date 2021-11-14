@@ -1,0 +1,23 @@
+What is <ul> list?
+	Unorder list start with <ul> tag and end with closing tag</ul>.
+	In the unorder list we use list item tag<li>.
+	List item shows like mark as bullets.
+	Syntax:
+		<ul>
+		<li>veg</li>
+		<li>non-veg</li>
+		</ul>
+What is <ol> list?
+	order list is start with <ol> tag and end with closing tag</ol>.
+	order list having we use list item tag<li>.
+	Syntax:
+		 <ol>
+	      <li> veg</li>
+	       <li>non-veg</li>
+		 </ol>
+		 <dl>-description list
+		 <dt>-description term
+		 <dd>-describes the each term
+The CSS list-style-type property is used to define the style of the list item marker. 
+	Syntax:
+		<ul style="list-style-type"></ul>

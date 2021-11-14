@@ -1,0 +1,7 @@
+What is win-scp?
+	win-scp stands for Windows Secure Copy.
+	winscp is used to copy files from client machine to server machine and server machine to client machine.
+	Its main function is secure file transfer between a local computer and a remote server.
+	NOTE:
+		without VPN and putty we cannot access the server machine.
+	
