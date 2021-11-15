@@ -1,0 +1,13 @@
+What is HTML form?
+	HTML form is used to collect the user input.
+	The user input is send to a server machine.
+	The HTML <form> element is used to create an HTML form for user input.
+	The <form> element is a container for different types of input elements.
+	Examples:
+		Text fields, checkboxes, radio buttons, submit buttons, etc.
+		
+		<input type="text">Displays a single-line text input field
+		<input type="radio">Displays a radio button(selecting one of many choices).
+		<input type="checkbox">Displays a checkbox( selecting zero or more of many choices).
+		<input type="submit">Displays a submit button(submitting the form).
+		<input type="button">Displays a clickable button.

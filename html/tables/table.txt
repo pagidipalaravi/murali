@@ -1,0 +1,17 @@
+What is HTML table?
+	HTML table created to rows and columns.
+	It is consists of table cells inside the rows and columns.
+	Table cell is defied as <td>tag and </td>tag.
+		<td> stands for "Table data".
+	Every table content inside table cell between <td> and </td>.
+	<tr>and<tr> stands for "Table row".
+	<th>and</th> stands for "Table header".
+	By default, the text in <th> elements are bold and centered, but you can change that with CSS.
+	
+	Summary:
+		<table> It is defines the table.
+		<tr> It is defines the table row.
+		<th> It is defines the table header.
+		<td> It is defines the table data.
+		<caption> It is used to caption of table.
+
