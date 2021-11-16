@@ -1,0 +1,16 @@
+	table,th,td{
+				border:1px solid blue;
+				background-color:yellow;
+				/*border-collapse:collapse;*/
+				}
+				th,td{
+					border-radius:10px;
+				}
+				h2{
+					background-color:red;
+				}
+		.dotted{
+			border-style:dotted;
+			background-color:brown;
+			border-spacing:10px;
+		}

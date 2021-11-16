@@ -1,0 +1,9 @@
+What is css colors?
+	css colors is used to applying for styles and color names such as red,yellow, brown, etc...
+	Is is applying for groups such as RGB, RGBA, HSL, HEX, HSLA.
+	CSS and HTML having 140+ color names.
+
+	RGB stand for red,green and blue.
+	rgb having parameters from 1 to 255 each color.
+	(0,0,0) To dispaly black color.
+	(255,255,255) To display white color.

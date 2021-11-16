@@ -1,0 +1,7 @@
+What is css comment tag ?
+	css comment tag used to explain the browser can easily understand code.
+	CSS comments are not displayed in the browser, but they can help document your source code.
+	CSS comment is placed inside the <style> element, and starts with /* and ends with */.
+	Example:
+		/* this is paragraph */
+

@@ -1,6 +1,7 @@
 *{
 	color:red;
 	background-color:yellow;
-	border: 2px solid blue;
+	
+	border-collapse:collapse;
 
 }

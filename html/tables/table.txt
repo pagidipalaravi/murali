@@ -14,4 +14,32 @@ What is HTML table?
 		<th> It is defines the table header.
 		<td> It is defines the table data.
 		<caption> It is used to caption of table.
+		
+	Summary:
+	border:10px;
+	border-collapse:collapse;
+	border-radius:10px;
+	border-color:red;
+	border-style:dotted,solid,dashed,ridge,etc..;
+	<th colspan="2">name</th>
+	<th rowspan="2">name</th>
+	table width="100%"
+	table height="100%"
+	padding:
+	padding-top:20px;
+	padding-bottom:25px;
+	padding-right:30px;
+	padding-left:25px;
+	border-spacing:20px;
+	
+Table styles:
+	tr:nth-child(even);
+	tr:nth-child(odd);
+	th:nth-child(even);
+	th:nth-child(odd);
+colgroup:
+	width property.
+	visibility property.
+	background properties.
+	border properties.
 
