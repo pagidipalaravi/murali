@@ -23,3 +23,12 @@ What is css colors?
 		It is red,green and blue colors.
 		NOTE:
 			we have #ff00cc, it can be written like this: #f0c.
+			
+	HSL stands for Hue, Saturation, Lightness.
+		Hue is a degree on the color from 0 to 360. 0 is red, 120 is green, and 240 is blue color.
+		Saturation is a percentage value, 0% means a shade of gray, and 100% is the full color.
+		Lightness is also a percentage, 0% is black, 50% is neither light or dark, 100% is white.
+		Example:
+			hsl(0, 50%, 50%) It display red color.
+			hsl(120,50%,50%) It display green color.
+			hsl(240,50%,50%) It display bluecolor.
