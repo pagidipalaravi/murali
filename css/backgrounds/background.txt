@@ -1,0 +1,31 @@
+What is background;
+	The CSS background properties are used to add background effects for HTML elements.
+	css background properties are six.They are
+		1) background-color
+		2) background-image
+		3) background-repeat
+		4) background-attachment
+		5) background-position
+		6) background(shorthand property).
+Background-color:		
+		color applying for backgrounds.
+		valid color name - like "red".
+		HEX value - like "#ff0000".
+		RGB value - like "rgb(255,0,0)".
+		Background color haivng opacity values like 0 t0 1.0
+		
+Background-image:
+	The background-image property specifies an image to use as the background of an element.
+		NOTE:
+			When using a background image does not disturb the text.
+	The background image can also be set for specific elements, like the <p> element:
+Background-repeat:
+	The background-image property repeats an image both horizontally and vertically.
+	Some images should be repeated only horizontally or vertically, or they will look strange.
+Background-position:
+	It is used to position og image in the browser page.
+Background-attachment:
+	The background-attachment property specifies whether the background image should scroll or fixed .
+Background(shorthand property).
+	To shorten the code, it is also possible to specify all the background properties in one single property. 
+	This is called a shorthand property.
