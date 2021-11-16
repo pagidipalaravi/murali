@@ -3,7 +3,23 @@ What is css colors?
 	Is is applying for groups such as RGB, RGBA, HSL, HEX, HSLA.
 	CSS and HTML having 140+ color names.
 
-	RGB stand for red,green and blue.
+	RGB stands for red,green and blue.
 	rgb having parameters from 1 to 255 each color.
 	(0,0,0) To dispaly black color.
 	(255,255,255) To display white color.
+	
+	RGBA stands for red, green, blue and alpha.
+	The alpha parameter is a number between 0.0 (fully transparent) and 1.0 (not transparent at all).
+	
+	Hex stands for six number of colors.
+	color names are rgb.
+	red,green,blue(rr,gg,bb).
+	 Example:
+	 #ff0000 is displayed as red, because red is set to its highest value (ff) and the others are set to the lowest value (00).
+	 
+	 3 Digit hex value-
+		Sometimes you will see a 3-digit hex code in the CSS source.
+		The 3-digit hex code is a shorthand for some 6-digit hex codes.
+		It is red,green and blue colors.
+		NOTE:
+			we have #ff00cc, it can be written like this: #f0c.
