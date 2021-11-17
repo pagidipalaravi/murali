@@ -1,0 +1,21 @@
+What is css margin?
+	Margins are used to create space around elements, outside of any defined borders.
+	There are properties for setting the margin for each side of an element (top, right, bottom, and left).
+		margin-top
+		margin-right
+		margin-bottom
+		margin-left
+	NOTE:
+		Negative values	are allowed.
+Margin shorthand property:
+	It is possible to specify all the margin properties in one property.
+		Example:
+			margin: 100px,50px,100px,50px;
+Margin auto value:
+	margin: auto;
+The inherit value:
+	By using <div> tag.
+	The left margin of the <p class="ex1"> element be inherited from the parent element (<div>).
+	Margin having four values, three values, two values, one value.
+Margin collapse:
+	margin collapse is used to collapse the margins.
