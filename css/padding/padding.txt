@@ -1,0 +1,6 @@
+What is css padding?
+	Padding is used to create space around an element's content, inside of any borders.
+	It is having properties of each element.They are
+		top,right,bottom and left.
+	padding individual sides are padding-top, padding-right, padding-bottom and padding-left. 
+		Set different padding for all four sides of a <div> element. 
