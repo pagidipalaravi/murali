@@ -1,1 +1,3 @@
 What is Ecllipse?
+	Developed using Java, the Eclipse platform can be used to develop rich client applications, integrated development environments and other tools.
+	Eclipse is an integrated development environment that is used in computer programming.

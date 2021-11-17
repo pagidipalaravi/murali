@@ -1,1 +1,4 @@
 What is Design-Patterns?
+	Design patterns having 23.
+	Design Patterns are typical solutions to commonly occurring problems in software design.
+	They are blueprints that you can customize to solve.

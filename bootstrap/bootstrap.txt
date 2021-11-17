@@ -1,1 +1,4 @@
 What is Bootstrap?
+	Bootstrap is the most popular HTML, CSS, and JavaScript framework for developing responsive, mobile-first websites.
+	USED:
+		Bootstrap is an HTML, CSS & JS Library that focuses on simplifying the development of informative web pages.

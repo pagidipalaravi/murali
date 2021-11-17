@@ -1,1 +1,3 @@
 What is Tomcat?
+	Tomcat is used for web applications written in Java that don't require full Java EE specifications, but still need a reliable tool.
+	The reason Tomcat is not really a full application server is because it acts only as a Web server and Servlet container.

@@ -1,1 +1,5 @@
 What is Angular?
+	Angular is a platform for building mobile and desktop web applications.
+	USED:
+		Angular is a platform and framework for building single-page client applications using HTML and TypeScript.
+		Angular is written in TypeScript. 
