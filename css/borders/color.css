@@ -1,0 +1,20 @@
+.h1{
+	border-color:green;
+	border-style:dotted;
+	}
+.red{
+	border-style:dotted;
+	border-color:red;
+	}
+.blue{
+	border-color:blue;
+	border-style:double;
+	}
+.green{
+	border-color:green;
+	border-style:double;
+	}
+.brown{
+	border-color:brown;
+	border-style:solid;
+}	

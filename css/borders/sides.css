@@ -1,0 +1,14 @@
+.four{
+	border-style:dotted double dashed solid;
+	}
+.three{
+	border-style:dotted solid double;
+	}
+.two{
+	border-style: groove double;
+	border-width:10px;
+	}
+.one{
+	border-style:double;
+	border-color:red;
+}

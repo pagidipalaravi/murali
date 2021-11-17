@@ -1,0 +1,35 @@
+.dot{
+	border-style:dotted;
+	}
+.das{
+	border-style:dashed;
+	}
+.dou{
+	border-style:double;
+	}
+.solid{
+	border-style:solid;
+	}
+.ridge{
+	border-style:ridge;
+	}
+.groove{
+	border-style:groove;
+	}
+.inset{
+	border-style:inset;
+	}
+.outset{
+	border-style:outset;
+	}
+.noborder{
+	border-style:noborder;
+	}
+.hidden{
+	border-style:hidden;
+
+	}
+.mixed{
+	border-style:dotted dashed double solid;
+}	
+	

@@ -1,0 +1,13 @@
+.sp{
+	border: 10px double green;
+	}
+.sp1{
+	border-right:solid;
+	border-color:red;
+	background-color:yellow;
+	color:black;
+	}
+.sp3{
+	border-radius:10px;
+	border: solid red 5px;
+}

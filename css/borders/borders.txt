@@ -1,0 +1,27 @@
+What is borders?
+	css borders is used to specify the style,widthh and color of elements of borders.
+	css borders having different types.They are
+		dotted - Defines a dotted border.
+		dashed - Defines a dashed border.
+		solid - Defines a solid border.
+		double - Defines a double border.
+		groove - Defines a 3D grooved border.The effect depends on the border-color value.
+		ridge - Defines a 3D ridged border.The effect depends on the border-color value.
+		inset - Defines a 3D inset border.The effect depends on the border-color value.
+		outset - Defines a 3D outset border.The effect depends on the border-color value.
+		none - Defines no border.
+		hidden - Defines a hidden border.
+Border width:
+	border width is used to width of the four sides.
+	border sides are top,right,bottom and left sides.
+Border color:
+	border color is used to applying the borders colors.
+	borders colors such as single colors, rgb, hex, hsl, etc...
+Border sides:
+		border sides are used to there are also properties for specifying each of the borders (top, right, bottom, and left).
+		border sides applying for four sides, three sides, two sides and one side.
+shorthand property:
+	this shorthand property is used to apply for single property of element.
+Border radius:
+	border radius is used to radius of the borders.
+		
