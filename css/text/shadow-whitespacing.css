@@ -1,0 +1,12 @@
+p{
+	white-space:nowrap;/*wrap also used insted of nowrap*/
+	}
+.shadow{
+	text-shadow:4px 2px 3px green;
+	}
+.shadow1{
+	color:yellow;
+	font-size:40px;
+	text-shadow:5px 3px 2px rgb(0,100,20);
+	
+}

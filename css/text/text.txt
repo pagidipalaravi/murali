@@ -1,0 +1,33 @@
+What is text?
+	It is define both the background-color property and the color property.
+text allign:
+	The text-align property is used to set the horizontal alignment of a text.
+	A text can be left or right aligned, centered, or justified.
+text decoration:
+	The text-decoration property is used to set or remove decorations from text.
+	The value text-decoration: none;It is  used to remove underlines from links.
+		Examples:
+			overline, underline and line-through;
+text transformation:
+	The text-transform property is used to specify uppercase and lowercase letters in a text.
+	It can be used to turn everything into uppercase or lowercase letters, or capitalize the first letter of each word.
+		syntax:
+			text-transform:lowercase or uppercase or capitalize;
+text indentation:
+	The text-indent property is used to specify the indentation of the first line of a text.
+		Syntax:
+			text-indent:60px;
+letter spacing:
+	The letter-spacing property is used to specify the space between the characters in a text.
+line height:
+	The line-height property is used to specify the space between lines.
+word spacing:
+	The word-spacing property is used to specify the space between the words in a text.
+white space:
+	The white-space property specifies how white-space inside an element.
+		Syntax:
+			 white-space: nowrap or wrap;
+text-shadow:
+	The text-shadow property adds shadow to text.
+	To specify the horizontal shadow (2px) and the vertical shadow (2px).
+	

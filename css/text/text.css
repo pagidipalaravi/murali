@@ -1,0 +1,56 @@
+div{
+	 border: 1px solid gray;
+	padding: 8px;	
+	background-color:#00ffff;
+	}
+	p{
+		text-indent: 50px;
+		text-align: justify;
+		letter-spacing: 3px;	
+	}
+h2{
+	text-align:center;/*right, left and justify*/
+	}
+.attribute{
+	 border: 1px solid red;
+	padding: 10px;
+	width: 100%;
+	height: 100px;
+	text-align: justify;
+	}
+.dec1{
+	text-decoration:overline;
+	}
+.dec2{
+	text-decoration:underline;
+	}
+.dec3{
+	text-decoration:line-through;
+	}
+.uppercase{
+	text-transform:uppercase;
+	}
+.lowercase{
+	text-transform:lowercase;
+	}
+.capitalize{
+	text-transform:capitalize;
+	}
+.ind{
+	text-indent:70px;
+	}
+.ls{
+	letter-spacing:6px;
+	}
+.ls1{
+	letter-spacing:-2px;
+	}
+.lh{
+	line-height:0.7;
+	}
+.ws{
+	word-spacing:15px;
+	}
+.ws1{
+	word-spacing:-4px;
+}
