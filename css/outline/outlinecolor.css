@@ -1,0 +1,11 @@
+h1{
+	outline-style:dashed;
+	outline-color:tomato;
+	background-color:yellow;
+	}
+.cs{
+	outline-style:dashed;
+	outline-color:rgb(150,80,190);
+	background-color:brown;
+	color:white;
+}

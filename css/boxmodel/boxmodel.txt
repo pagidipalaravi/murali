@@ -1,0 +1,4 @@
+What is box model?
+	HTML elements can be considered as boxes.
+	The"box model" is used to about design and layout.
+	It consists of margins, borders, padding, and some content.

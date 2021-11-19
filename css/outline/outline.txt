@@ -1,0 +1,20 @@
+What is outline?
+	outline is a line drawn outside the element's border.
+	outline is a line that is drawn around elements, outside of the borders, to make the element "stand out".
+		CSS outline properties:
+			1.outline-style
+			2.outline-color
+			3.outline-width
+			4.outline-offset
+			5.outline
+outline style:
+	dotted - Defines a dotted outline
+	dashed - Defines a dashed outline
+	solid - Defines a solid outline
+	double - Defines a double outline
+	groove - Defines a 3D grooved outline
+	ridge - Defines a 3D ridged outline
+	inset - Defines a 3D inset outline
+	outset - Defines a 3D outset outline
+	none - Defines no outline
+	hidden - Defines a hidden outline

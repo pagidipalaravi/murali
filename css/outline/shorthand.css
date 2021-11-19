@@ -1,0 +1,23 @@
+p{
+	outline-style:solid;
+	outline-color:#ff00ff;
+	background-color:#00ffff;
+	}
+p.m1{
+	outline-style:double;
+	}
+p.m3{
+	outline-style:groove;
+	outline-color:red;
+	}
+p.m3{
+	outline-style:solid;
+	outline-color:yellow;
+	outline-width:5px;
+	}
+p.m4{
+	outline-style:ridge;
+	outline-color:pink;
+	outline-width:thick;
+}
+	

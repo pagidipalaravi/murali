@@ -1,0 +1,28 @@
+p{
+	outline-color:green;
+	border:5px;
+	}
+p.dot{
+	outline-style: dotted;
+	}
+p.das{
+	outline-style: dashed;
+	}
+p.dou{
+	outline-style: double;
+	}
+p.solid{
+	outline-style: solid;
+	}
+p.groove{
+	outline-style: groove;
+	}
+p.ridge{
+	outline-style: ridge;
+	}
+p.inset{
+	outline-style: inset;
+	}
+p.outset{
+	outline-style: outset;
+	}
