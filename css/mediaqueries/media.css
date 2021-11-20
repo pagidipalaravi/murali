@@ -1,11 +1,25 @@
-	
 body {
-  background-color: green;
-  color:white;
+  background-color:green;
+	}
+
+@media only screen and (min-width:760px){
+	body{
+		background-color:red;	
+	}
+	}
+h1{
+	background-color:yellow;
+	color:white;
+	text-transform:uppercase;
+}
+@media only screen and (min-width:760px){
+	h1{
+		background-color:brown;
+		color:white;
+		text-transform:lowercase;
+	}
 }
 
-@media screen and (min-width:480px) {
-  body {
-    background-color: blue;
-  }
-}
+
+
+

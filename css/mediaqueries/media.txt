@@ -1,0 +1,25 @@
+What is media query?
+	The @media query introduced in CSS2, made it possible to define different style rules for different media types.
+	It is used for computer screens, one for printers, one for handheld devices, one for television-type devices, etc...
+	Media queries in CSS3 extended the CSS2 media types idea.
+			1.width and height of the viewport.
+			2.width and height of the device.
+			3.orientation (tablet/phone in landscape or portrait mode).
+			4.resolution.
+	Media queries are a popular technique for delivering style sheet to desktops, laptops, tablets, and mobile phones (such as iPhone and Android phones).
+	A media query consists of a media type and can contain one or more expressions, which resolve to either true or false.
+		Syntax:
+			@media only screen and (min-width: 480px) (max-width:720px){content}.
+css MQ Examples:
+	1.we can change the background color for different devices.
+	2.we use media queries to create a responsive navigation menu, that varies in design on different screen sizes.
+	3.we create a layout that varies between four, two and full-width columns, depending on different screen sizes.
+	4.Another common use of media queries, is to hide elements on different screen sizes.
+	5.media queries to change the font size of an element on different screen sizes.
+	6.we use media queries together with flexbox to create a responsive image gallery.
+	7.we use media queries together with flexbox to create a responsive website, containing a flexible navigation bar and flexible content.
+	8.Media queries can also be used to change layout of a page depending on the orientation of the browser.
+	9You can have a set of CSS properties that will only apply when the browser window is wider than its height, a so called "Landscape" orientation.
+	10.Use the (max-width: ..) and (min-width: ..) values to set a minimum width and a maximum width.
+		use the (max-width: ..) and (min-width: ..) values to set a minimum width and a maximum width.
+	11.we add an additional media query to our already existing one using a comma (OR operator).
