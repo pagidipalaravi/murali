@@ -1,0 +1,14 @@
+What is links?
+	Links can be styled in many different ways.
+	Links can be styled with any CSS property. 
+	Example:
+		Color, font-family, background, etc.
+	The four links states are:
+		a:link - a normal, unvisited link.
+		a:visited - a link the user has visited.
+		a:hover - a link when the user mouses over it.
+		a:active - a link the moment it is clicked.
+	The text-decoration property is mostly used to remove underlines from links.
+	The background-color property can be used to specify a background color for links.
+	CSS properties to display links as boxes/buttons.
+
