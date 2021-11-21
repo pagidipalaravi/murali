@@ -1,0 +1,92 @@
+What is fonts?
+	The font has a huge impact on how the readers experience a website.
+	The right font can create a strong identity for your brand.
+	The font adds value to your text. It is also important to choose the correct color and text size for the font.
+	Font Families are:
+		1.Serif- fonts have a small stroke at the edges of each letter. They create a sense of formality and elegance.
+		2.Sans-serif- fonts have clean lines (no small strokes attached). They create a modern and minimalistic look.
+		3.Monospace- fonts - here all the letters have the same fixed width. They create a mechanical look. 
+		4.Cursive -fonts imitate human handwriting.
+		5.Fantasy -fonts are decorative/playful fonts.
+	NOTE:
+		computer screens easily understand the read the sentence.
+	NOTE:
+		If the font name is more than one word, it must be in quotation marks, like: "Times New Roman".
+	we use the "font-family property"to specify the font of a text.
+Font web safe:
+	Web safe fonts are fonts that are universally installed across all browsers and devices.
+	It is very important to always use fallback fonts.
+	It is used to add a list of similar "backup fonts" in the font-family property. 
+	If the first font does not work, the browser will try the next one, and the next one, and so on.
+	Always end the list with a generic font family name.
+	NOTE:
+		There are three font types:- Tahoma, Verdana, and sans-serif.
+		The second and third fonts are backups, in case the first one is not found.
+	Best web fonts styles for css and html are:
+		1.Arial (sans-serif).
+		2.Verdana (sans-serif).
+		3.Tahoma (sans-serif).
+		4.Trebuchet MS (sans-serif).
+		5.Times New Roman (serif).
+		6.Georgia (serif).
+		7.Garamond (serif.)
+		8.Courier New (monospace).
+		9.Brush Script MT (cursive).
+	NOTE:
+		 Before you publish your website, always check how your fonts appear on different browsers and devices, and always use fallback fonts.
+Arial:
+	Arial is the most widely used font for both online and printed media.
+	Arial is also the default font in Google Docs.
+	Arial is one of the safest web fonts, and it is available on all major operating systems.
+Verdana:
+	Verdana is a very popular font. Verdana is easily readable even for small font sizes.
+Helvetica:
+	The Helvetica font is loved by designers. It is suitable for many types of business.
+Tahoma:
+	The Tahoma font has less space between the characters.
+Brush script MT:
+	The Brush Script MT font was designed to mimic handwriting.
+	It is elegant and sophisticated, but can be hard to read. Use it carefully.
+Garamond:
+	Garamond is a classical font used for many printed books. It has a timeless look and good readability.
+Times New Roman:
+	Times New Roman is one of the most recognizable fonts in the world. 
+	It looks professional and is used in many newspapers and "news" websites. 
+	It is also the primary font for Windows devices and applications.
+FONT STYLE;
+	The font-style property is mostly used to specify italic text.
+	Property has three values:
+		1.normal - The text is shown normally.
+		2.italic - The text is shown in italics.
+		3.oblique - The text is "leaning" (oblique is very similar to italic, but less supported).
+FONT-WEIGHT:
+	The font-weight property specifies the weight of a font.
+FONT-VARIANT:
+	The font-variant property specifies whether or not a text should be displayed in a small-caps font.
+	In a small-caps font, all lowercase letters are converted to uppercase letters. 
+	The converted uppercase letters appears in a smaller font size than the original uppercase letters in the text.
+FONT-SIZE:
+	The font-size property sets the size of the text.
+	Always use the proper HTML tags, like <h1> - <h6> for headings and <p> for paragraphs.
+	
+	NOTE:
+		If you do not specify a font size, the default size for normal text, like paragraphs, is 16px (16px=1em).
+		
+	The text size can be set with a vw unit, which means the "viewport width".
+	The text size will follow the size of the browser window.
+	calculation:
+		1vw = 1% of viewport width. If the viewport is 50cm wide, 1vw is 0.5cm.
+		1em(emphemeral unit_) is equal to the current font size. The default text size in browsers is 16px. So, the default size of 1em is 16px.
+		The size can be calculated from pixels to em using this formula: pixels/16=em.
+css shorthand property:
+	It is also possible to specify all the individual font properties in one property.
+	The font property is a shorthand property for:
+					font-style
+					font-variant
+					font-weight
+					font-size/line-height
+					font-family
+	NOTE:
+		The font-size and font-family values are required. If one of the other values is missing, their default value are used.
+	
+				

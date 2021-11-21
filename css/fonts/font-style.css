@@ -1,0 +1,42 @@
+.n{
+	font-style:normal;
+	}
+.i{
+	font-style:italic;
+	}
+.o{
+	font-style:oblique;
+	}
+.normal{
+	font-weight:normal;
+}
+.light{
+	font-weight:light;
+}
+.thick{
+	font-weight:bold;
+}
+.thicker{
+	font-weight:1000;
+}
+.n1{
+	font-variant:normal;
+	}
+.s1{
+	font-variant:small-caps;
+}
+.fs1{
+	font-size:20px;
+	}
+.fs2{
+	font-size:40px;
+	}
+.em{
+	font-size:3.6em;
+	}
+.vw{
+	font-size:5vw;
+	}
+.mk1{
+	font:italic bold 12px Georgia, serif;
+}
