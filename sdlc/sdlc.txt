@@ -6,4 +6,165 @@ What is Software Development Life Cycle?
 		Testing
 		Deployment
 		maintainance
+	SDLC stands for Software Development Life Cycle.It is also called as "process model".It is a pictorial and Diagrammatic of a sdlc.
+	It is used to development software product through of its cycle. Different life cycle models may plan the necessary development activities to phases in different ways.
+	During any life cycle stage, more than one activity may also be carried out.
+Need of SDLC:
+		The development team need to sdlc because every project have to need coding,testing,document and design etc..
+		Development team must determine a suitable life cycle model for a particular plan and then observe to it.
+		Without using an exact life cycle model, the development of a software product would not be in a systematic and disciplined manner.When a team is developing a software product, there must be a clear understanding among team representative about.
+		Example:
+			Suppose a software development issue is divided into various parts and the parts are assigned to the team members.
+			The team representative is allowed the freedom to develop the roles, one representative might start writing the code for his part,another might choose to prepare the test documents first,
+			and some other engineer might begin with the design phase of the roles assigned to him. This would be one of the perfect methods for project failure.
+	
+	Without sdlc we cannot development the software project.
+	A software life cycle model describes entry and exit criteria for each phase.
+	Without software life cycle models, it becomes tough for software project managers to monitor the progress of the project.
+	
+SDLC CYCLE:
+	1.Requirements analysis
+	2.Defining
+	3.Designing
+	4.Coding
+	5.Testing
+	6.Deployment
+	7.Maintainance
+	
+	1.Requirements analysis:
+		Requirement Analysis is the most important and necessary stage in SDLC.
+		A senior members want to plan perform it with inputs from all the stakeholders and domain experts or SMEs(Small and mid-size enterprises) in the industry.
+		Planning for the quality requirements and identifications of the risks associated with the projects is also done at this stage.
+		Business analyst and Project organizer set up a meeting with the client to gather all the data the customer wants to build.
+		Before creating a product, a core understanding or knowledge of the product is very necessary.
+		Example:
+			A person want to money transaction my account last month. how it will be done, in which currency it will be done, etc.
+			once requirement done,analysis is complte procees transaction details about the account.
+			The requirement is understood,the SRS (Software Requirement Specification) document is created.The developers should thoroughly follow this document and also should be reviewed by the customer for future reference.
+	2.Defining:
+		Once the requirement analysis is done, the next stage is represent and document the software requirements and get them accepted from the project stakeholders.
+		This is accomplished through "SRS"- Software Requirement Specification document which contains all the product requirements to be constructed and developed during the project life cycle.
+	3.Designing:
+		The next step is about to bring down all the knowledge of requirements, analysis, and design of the software project.This phase is the product of the last two, like inputs from the customer and requirement gathering.
+	4.Coding:
+		In this sdlc, the coding is very important role in software project.
+		Developers have to follow the coding guidelines described by their management and programming tools like compilers, interpreters, debuggers, etc. 
+		To used to develop and implement the code.
+	5.Testing:
+		After the code is generated, it is tested against the requirements to make sure that the products are solving the needs addressed and gathered during the requirements stage.
+		In this stage, unit testing, integration testing, system testing, acceptance testing are done.
+	6.Deployment:
+		Once the software is certified, and no bugs or errors are stated, then it is deployed.
+		After the software is deployed, then its maintenance begins.
+	7.Maintainance:
+		Once the client starts using the developed systems, then the real issues come up and requirements to be solved.
+		This process where the taken for the developed product is known as maintenance.
 		
+SDLC MODELS:
+	There are different software development life cycle models specify and design.
+	These models are also called "Software Development Process Models".
+	
+Some impotant phases of sdlc models:
+	1.Waterfall model.
+	2.RAD(Rapid Application Development) model.
+	3.Spiral model.
+	4.v-model.(verification and validation).
+	5.Incremental model.
+	6.Agile model.
+	7.Iterative model.
+	8.Bigbang model.
+Most important models;
+	1.waterfall model
+	2.Agile model
+	3.Incremental model
+	
+	1.WATERFALL MODEL:
+		waterfall model is a universally SDLC model.The waterfall model is a continuous software development model.
+		The steps of requirements analysis, design, implementation, testing, integration, and maintenance.
+		The output of the stage is consistent with the overall requirements of the system.
+	2.AGILE MODEL:
+		The meaning of Agile is swift or versatile."Agile process model" refers to a software development approach based on iterative development.
+		Each iteration is considered as a short time "frame" in the Agile process model.software development life cycle including planning, requirements analysis, design, coding, and testing before a working product is demonstrated to the client.
+	Phases of Agile method:
+		1.Requirements gathering
+		2.Design the requirements
+		3.Construction/ iteration
+		4.Testing/ Quality assurance
+		5.Deployment
+		6.Feedback
+	1.Requirements gathering:
+		In this pahse explain business opportunities and plan the time and effort needed to build the project.
+	2.Design the requirements:
+		Once identify the project,to share the information the employes and discuss requirements.Explain the user flow diagram or the high-level UML diagram to show the work of new features and show how it will apply to your existing system.
+	3.Construction:
+		When the team defines the requirements, the work begins. Designers and developers start working on their project, which aims to deploy a working product. 
+	4.Testing:
+		In this phase, the Quality Assurance team examines the product's performance and looks for the bugs or errors .
+	5.Deployment:
+		In this phase, the team issues a product for the user's work environment.
+	6.Feedback:
+		After completing the product,the last step is feedback. In this, the team receives feedback about the product and works through the feedback.
+	
+	Agile Testing Methods:
+		1.Scrum
+		2.Crystal
+		3.Dynamic Software Development Method(DSDM)
+		4.Feature Driven Development(FDD)
+		5.Lean Software Development
+		6.eXtreme Programming(XP).
+		
+	1.scrum:
+		scrum is an agile development process focused primarily on ways to manage tasks in team-based development conditions.
+		There are three roles and their responsibilities are:
+			1.scrum master
+			2.product owner
+			3.scrum team
+	2.crystal:
+		There are three concepts of this method:
+			Chartering: Multi activities are involved in this phase such as making a development team, performing feasibility analysis, developing plans, etc.
+			Cyclic delivery: The two more cycles .They are:
+								1.Team updates the release plan.
+								2.Integrated product delivers to the users.
+			Wrap up: According to the user environment, this phase performs deployment, post-deployment.
+	3.Dynamic software Development method:
+		DSDM is a rapid application development strategy for software development and gives an agile project distribution structure. 
+		The techniques used in DSDM are:
+				A.Time Boxing
+				B.MoSCoW Rules
+				C.Prototyping
+		DSDM Project Contains 7 stages.They are
+				1.Pre-project
+				2.Feasibility Study
+				3.Business Study
+				4.Functional Model Iteration
+				5.Design and build Iteration
+				6.Implementation
+				7.Post-project
+	4.Feature Driven Development(FDD):
+		This method focuses on "Designing and Building" features.
+	5.Learn Software Development:
+		Lean software development methodology follows the principle "just in time production".
+		They are 7 Stages:
+			1.Eliminating Waste
+			2.Amplifying learning
+			3.Defer commitment (deciding as late as possible)
+			4.Early delivery
+			5.Empowering the team
+			6.Building Integrity
+			7.Optimize the whole
+	7.eXtreme Programming(XP):
+		This type of methodology is used when customers are constantly changing demands or requirements, or when they are not sure about the system's performance.
+	When the Use Agile method:
+		1.When frequent changes are required.
+		2.When a highly qualified and experienced team is available.
+		3.When a customer is ready to have a meeting with a software team all the time.
+		4.When project size is small.
+	Advantages:
+		1.Frequent Delivery.
+		2.Face-to-Face Communication with clients.
+		3.Efficient design and fulfils the business requirement.
+		4.Anytime changes are acceptable.
+		5.It reduces total development time.
+	Disadvantages:
+		1.Due to the shortage of formal documents, it creates confusion and crucial decisions.
+		2.Due to the lack of proper documentation, once the project completes and the developers allotted to another project, maintenance of the finished project can become a difficulty.

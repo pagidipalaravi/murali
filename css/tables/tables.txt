@@ -1,0 +1,20 @@
+What is css tables?
+	Tables created by Rows and Columns.
+Table-borders:
+	Tables having borders in css,use the border property.
+	To specify the tables, table header<th> and table data<td>.
+Table width:
+	Table width is used to width of table length.It is having width property.
+	Table is used to border collapse property.
+		Syntax:
+			border-collapse:collapse;
+Table width and height:
+	The width and height of a table are defined by the width and height properties.
+Table text-alignment:
+	The text-align property sets the horizontal alignment (like left, right, or center) of the content in <th> or <td>.
+Vertical alignment:
+	The vertical-align property sets the vertical alignment (like top, bottom, or middle) of the content in <th> or <td>.
+Table padding:
+	The space between the border and the content in a table, use the padding property on <td> and <th> elements.
+Respensive table:
+	A responsive table will display a horizontal scroll bar if the screen is too small to display the full content.

@@ -11,3 +11,86 @@ What is HTML form?
 		<input type="checkbox">Displays a checkbox( selecting zero or more of many choices).
 		<input type="submit">Displays a submit button(submitting the form).
 		<input type="button">Displays a clickable button.
+Form attributes:
+	Action attribute:
+		The action attribute used to the action to be performed when the form is submitted.
+		The data send to the server when the user click on the submit button.
+	Example:
+		The form data is sent to a file called "action_page.php". This file contains a server-side script that handles the form data.
+	Target attribute:
+		The target attribute specifies where to display the response that is received after submitting the form.
+		The target attribute having some values:
+			1.blank
+			2.self
+			3.parent
+			4.top
+			5.framename
+		The default value is"self" which means that the response will open in the current window.
+		
+	Method attribute:
+		The method attribute specifies the HTTP method to be used when submitting the form data.
+		The method attributes having two values: 1.Get 2.post
+		SYNTAX:
+			method="get" and method="post"
+			The default HTTP method when submitting form data is GET. 
+	GET important:
+		1.The form data to the URL, in name/value pairs.(data is visible in the URL).
+		2.NEVER use "GET" to send sensitive data.
+		3.The length of a URL is limited (2048 characters),
+	POST important:
+		1.The form data inside the body of the HTTP request.(data is not shown in the URL).
+		2.POST has no size limitations, and can be used to send large amounts of data.
+		3.Form submissions with POST cannot be bookmarked.
+		
+	novalidate attribute:
+		The novalidate attribute is a boolean attribute.
+	HTML form Elements:
+		The HTML <form> element can contain one or more of the following form elements.
+			1.<input>
+			2.<label>
+			3.<select>
+			4.<textarea>
+			5.<button>
+			6.<fieldset>
+			7.<legend>
+			8.<datalist>
+			9.<output>
+			10.<option>
+			11.<optgroup>
+		
+		1.<input> element:
+			The most used form element is the <input> element.
+			The <input> element can be displayed in several ways, depending on the type attribute.
+		2.<label> element:
+			The <label> element defines a label for several form elements.
+			The <label> element is useful for screen-reader users.
+			The for attribute of the <label> tag should be equal to the id attribute of the <input> element to bind them together.
+		3.<select> element:
+			The <select> element defines a drop-down list.
+		4.<option> element:
+			The <option> elements defines an option that can be selected.
+			The size attribute to specify the number of visible values.
+		5.<textarea> element:
+			The <textarea> element defines a multi-line input field (a text area).
+			The rows attribute specifies the visible number of lines in a text area.
+			The cols attribute specifies the visible width of a text area.
+		6.<button> element:
+			The <button> element defines a clickable button.
+		7.<fieldset> element:
+			The <fieldset> element is used to group related data in a form.
+		8.<legend> element:
+			The <legend> element defines a caption for the <fieldset> element.
+		9.<datalist> element:
+			The <datalist> element specifies a list of pre-defined options for an <input> element.
+			The list attribute of the <input> element, must refer to the id attribute of the <datalist> element.
+		10.<output> element:
+			The <output> element represents the result of a calculation.
+			
+			
+	
+	
+					
+	
+		
+	
+	

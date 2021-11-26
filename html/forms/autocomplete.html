@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html>
+	<head></head>
+	<body>
+		<h1>autocomplete form</h1>
+		<form action="/action_page.php" target="blank" method="post" autocomplete="on" novalidate<!--off-->
+		<label for="firstname">Firstname:</label>
+		<input type="text" id="firstname" name="firstname"></input><br><br>
+		<label for="lastname">Lastname:</label>
+		<input type="text" id="lastname" name="lastname"></input><br><br>
+		<label for="mobile"> select favourite moblie</label>
+		<select id="mobile" name="mobile" size="2">
+		<option value="oneplus">oneplus</option>
+		<option value="samsung">samsung</option>
+		<option value="realme">realme</option>
+		</select><br><br>
+		<h2>multiple attribute</h2>
+		<label for="mobile"> select favourite moblie</label>
+		<select id="mobile" name="mobile" size="3" multiple>
+		<option value="oneplus">oneplus</option>
+		<option value="samsung">samsung</option>
+		<option value="realme">realme</option>
+		</select>
+		<p>The textarea element defines a multi-line input field.</p>
+		<textarea name="message" col="10" rows="10">animals are living in forest.</textarea><br><br>
+		<h2>The button Element</h2>
+		<button type="button" onclick="alert('Hello World!')">Click Me!</button><br><br>
+		<h2>field and legent elements</h2>
+		<fieldset>
+			<legend>Personalia:</legend>
+				<label for="fname">First name:</label><br>
+				<input type="text" id="fname" name="fname" value="John"><br>
+				<label for="lname">Last name:</label><br>
+				<input type="text" id="lname" name="lname" value="Doe"><br><br>
+				<input type="submit" value="Submit">
+		</fieldset>
+		<h2>datalists</h2>
+		<input list="browsers" name="browser">
+		<datalist id="browsers">
+			<option value="Internet Explorer">
+			<option value="Firefox">
+			<option value="Chrome">
+			<option value="Opera">
+			<option value="Safari">
+		</datalist>
+		<input type="submit">
+		
+		
+		<input type="submit" value="submit"></input>
+	</form>
+	</body>
+</html>

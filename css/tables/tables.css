@@ -1,0 +1,26 @@
+table,th,td{
+	border:2px solid green;
+		}
+th{
+	height:70px;
+	}
+td{
+	text-align:center;
+	padding:15px;
+}
+.m{
+	border:2px solid red;
+	width:100%;
+	/*border-collapse:collapse;*/
+	}
+.m tr:hover{
+	background-color:yellow;
+	
+}
+.m th{
+	vertical-align:bottom;
+	}
+.m2 {
+	border-bottom:2px solid blue;
+	border-top:2px solid brown;
+	}
