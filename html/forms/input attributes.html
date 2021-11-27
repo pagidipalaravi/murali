@@ -1,0 +1,77 @@
+<!DOCTYOE html>
+	<html>
+	<head></head>
+	<body style="background-color:#ff00ff;">
+	<h1>HTML input attributes</h1>
+	<h2> value attribute</h2>
+		<form action="/action_page.php">
+		<label for="fname">Firstname:</label>
+		<input type="text" id="fname" name="fname" value="murali"</input><br><br>
+		<label for="lname">Lastname:</label>
+		<input type="text" id="lastname" name="lastname" value="krishna"></input><br><br>
+	<h2>read only attribute</h2>
+		<label for="fname">Firstname:</label>
+		<input type="text" id="fname" name="fname" value="first name" readonly></input><br><br>
+		<label for="lname">Lastname:</label>
+		<input type="text" id="lastname" name="lastname" value="lastname" readonly></input>
+	<h2> Disabled attribute</h2>
+		<label for="fname">Firstname:</label>
+		<input type="text" id="fname" name="fname" value="first name" disabled></input><br><br>
+		<label for="lname">Lastname:</label>
+		<input type="text" id="lastname" name="lastname" value="lastname" readonly></input>
+	<h2>size atttribute</h2>
+		<label for="fname">Firstname:</label>
+		<input type="text" id="fname" name="fname" size="30"></input><br><br>
+		<label for="lname">Lastname:</label>
+		<input type="text" id="lastname" name="lastname" size="30"></input><br><br>
+		<label for="pin">PIN CODE:</label>
+		<input type="text" id="pin" name="pin" size="6"></input>
+	<h2>maxlength attribute</h2>
+		<label for="pin">PINCODE</label>
+		<input type="text" id="pincode" name="pincode" size="6" maxlength="6"></input>
+	<h2>min and max attribute</h2>
+		<label for="datemax">Enter a date before 2021-01-01:</label>
+		<input type="date" id="datemax" name="datemax" max="2020-01-01"></input>
+		<label for="datemin">Enter a date after 2021-01-01:</label>
+		<input type="date" id="datemin" name="datemin" min="2021-01-02"></input>
+		<label for="quantity">Enter the number(0-9):</label>
+		<input type="number" id="quantity" name="quantity" min="0" max="9"></input>
+	<h2>Multiple attribute</h2>
+		<label for="files">choose files</label>
+		<input type="file" id="files" name="files" multiple></input>
+	<h2>pattern attribute</h2>
+		<label for="country code">country code:</label>
+		<input type="text" id="country code" name="country code" pattern="[A-z a-z]{3}" title="three later country code"></input>
+		<input type="submit" value="submit"></input>
+	<h2>placeholder attribute</h2>
+		<label for="fname">First name</label>
+		<input type="text" id="fname" name="fname" placeholder="firstname"></input>
+		<input type="submit"></input>
+	<h2>required attribute</h2>
+		<label for="username">Username</label>
+		<input type="text" id="username" name="username" required></input>
+		<input type="submit"></input>
+	<h2>Step attribute</h2>
+		<label for="points">points</label>
+		<input type="number" id="points" name="points" step="2"></input>
+	<h2>autofocus attribute</h2>
+		<label for="fname">firstname:</label>
+		<input type="text" id="fname" name="fname" autofocus></input>
+		<input type="submit"></input>
+	<h2>height and width attribute of image</h2>
+		<input type="image" src="F:\github\murali\html\forms\mk.jpg" alt="smileimage" width="45" height="45"></input>
+	<h2>list attributes</h2>
+		<input list="browser" name="browser"></input>
+		<datalist id="browser">
+			<option value="google"></option>
+			<option value="internet explorer"></option>
+			<option value="chrome"></option>
+		</datalist>
+	<h2>autocomplete(on and off condition)!</h2>
+		<label for="fname">Firstname:</label>
+		<input for="text" id="fname" name="fname" autocomplete="off"<!--on--></input><br><br>
+		<input type="submit"></input>
+		<input type="reset"></input>
+	</form>
+	</body>
+	</html>

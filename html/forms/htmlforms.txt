@@ -36,7 +36,7 @@ Form attributes:
 	GET important:
 		1.The form data to the URL, in name/value pairs.(data is visible in the URL).
 		2.NEVER use "GET" to send sensitive data.
-		3.The length of a URL is limited (2048 characters),
+		3.The length of a URL is limited (2048 characters).
 	POST important:
 		1.The form data inside the body of the HTTP request.(data is not shown in the URL).
 		2.POST has no size limitations, and can be used to send large amounts of data.
@@ -85,7 +85,84 @@ Form attributes:
 			The list attribute of the <input> element, must refer to the id attribute of the <datalist> element.
 		10.<output> element:
 			The <output> element represents the result of a calculation.
+		
+HTML Forms Input Types:
+		The different input types you can use in HTML:-
+			<input type="button">
+			<input type="checkbox">
+			<input type="color">
+			<input type="date">
+			<input type="datetime-local">
+			<input type="email">
+			<input type="file">
+			<input type="hidden">
+			<input type="image">
+			<input type="month">
+			<input type="number">
+			<input type="password">
+			<input type="radio">
+			<input type="range">
+			<input type="reset">
+			<input type="search">
+			<input type="submit">
+			<input type="tel">
+			<input type="text">
+			<input type="time">
+			<input type="url">
+			<input type="week">
 			
+	HTML input attributes:
+		
+		1.value attribute:
+						The value attribute is used to initial value for input field.
+		2.Readonly attribute:
+						The input readonly attribute specifies that an input field is read-only.
+						A read-only input field cannot be modified.
+		3.Disabled attribute:
+						The input disabled attribute specifies that an input field should be disabled.
+						A disabled input field is unusable and un-clickable.
+		4.Size attribute:
+						The input size attribute is used to the visible width, in characters, of an input field.
+						The default value for size is 20.
+					NOTE:
+						The size attribute works with the following input types: text, search, tel, url, email, and password.
+		5.Maxlength attribute:
+						The input maxlength attribute specifies the maximum number of characters allowed in an input field.
+					NOTE:
+						When a maxlength is set, the input field will not accept more than the specified number of characters.
+		6.Max and Min attribute:
+					The input min and max attributes specify the minimum and maximum values for an input field.
+					Examples:
+						 number, range, date, datetime-local, month, time and week.
+		7.Multiple attribute:
+					The input multiple attribute describes the user is allowed to enter more than one value in an input field.
+					Examples:
+						email and files.
+		8.pattern attribute:
+				The input pattern attribute used to regular expression that the input field's value is checked against, when the form is submitted.
+				Examples:
+						 text, date, search, url, tel, email, and password.
+				 NOTE:
+						Input field that can contain only three letters (no numbers or special characters).
+						Country codes such as IND ,AFG etc..
+		9.placeholder attribute:
+				Placeholder attribute is used to easily understand input user.
+				Examples:
+					number, email, password etc..
+		10.Required attribute:
+				The input required attribute specifies that an input field must be filled out before submitting the form.
+		11.Step attribute:
+				The input step attribute specifies the legal number intervals for an input field.
+				Example:
+					If step="3" ,it gives 0, -3, 3, 6,etc..
+		12.autofocus attribute:
+					The input autofocus attribute describes the input field should automatically get focus when the page loads.
+		13.height and width attributes:
+					The input height and width attributes specify the height and width of an <input type="image"> element.
+		14.list attribute:
+					The input list attribute refers to a <datalist> element.
+		15.autocomplte attribute:
+					The input autocomplete attribute specifies whether a form or an input field should have autocomplete on or off.
 			
 	
 	
