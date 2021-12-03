@@ -1,0 +1,11 @@
+What is npm?
+	Npm stands for Node Package Manager.
+	It consists of a command line client, also called npm.
+	Npm is the package manager for the Node JavaScript platform.
+	Npm having a lot application( morethan 11 millon applications).
+	We run the application by using npm.
+	It is used to publish, discover, install, and develop node programs.
+	Nodejs having inbuilt module(http,file system and cryptography).
+	Npm share their source code to others. 
+What is the purpose of npm?
+	 The most commonly used command as we develop JavaScript/Nodejs applications.

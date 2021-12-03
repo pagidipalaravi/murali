@@ -1,0 +1,40 @@
+What is nodejs?
+	Nodejs is a JavaScript runtime, which is built on Chrome's V8 engine.
+	Nodejs is an open-source and cross-platform JavaScript runtime environment.
+	Nodejs runs the V8 JavaScript engine, the core of Google Chrome, outside of the browser.
+	Nodejs app runs in a single process, without creating a new thread for every request.
+	
+What is the purpose/use of nodejs?
+	We can run javascript files from the cli by using nodejs and without using any web browser.
+	Nodejs acts like as a server, it will complile and run the javascript files.
+	Nodejs itself acts as a server, we can run the our application without servers.	
+	Nodejs has a unique advantage because millions of frontend developers that write JavaScript for the browser.
+	
+What is the serverless container architecture?
+	Serverless computing is an execution architecture in which application code is run on demand.
+	The only work necessary to run the code is to upload and excute, this is called "serverless", there is no server to maintain.
+	Serverless Containers represents the idea that customers can now run containers without having to manage the actual servers (or)
+	compute infrastructure that the containers are running on.
+	serverless architecture is a way to build and run applications and services without having to manage infrastructure.
+What is the difference between interpreter and compiler?
+	The interpreter and compiler are the programs that converts high level language(source code)to machine understandable language.
+	Computers cannot understand high level languages(human code).
+	They can only understand the programs that are developed in binary systems known as a machine code.
+	
+	Interpreter:
+		It translates just one statement of the program at a time into machine code.
+		Interpreter takes very less time to analyze the source code.
+		
+	Compiler:
+		Compiler scans the entire program and translates the whole of it into machine code at once.
+		A compiler takes a lot of time to analyze the source code.
+	
+What is design time?
+	Design time means during code and UI design, when one is writing code and using graphic designers to design a UI.
+	When we developing or designing the applications is a design time.
+	
+What is compilation time?
+	After completing the code it will compiles that is a compilation time.
+	
+What is run time?
+	Runtime is a period of time when the program is running.

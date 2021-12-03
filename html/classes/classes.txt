@@ -1,0 +1,8 @@
+What is class?
+	class attribute is used to specify a class for an HTML element.
+	The Multiple HTML elements can share the same class.
+	we have two <span> elements with a class attribute with the value of "note".
+	Both <span> elements will be styled equally according to the .note style.
+Multiple classes:
+		HTML elements can belong to more than one class.
+		Different HTML elements can point to the same class name.
