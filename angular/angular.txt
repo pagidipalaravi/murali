@@ -2,4 +2,54 @@ What is Angular?
 	Angular is a platform for building mobile and desktop web applications.
 	USED:
 		Angular is a platform and framework for building single-page client applications using HTML and TypeScript.
-		Angular is written in TypeScript. 
+		Angular is written in TypeScript.
+		
+What is Typescript?
+	Typescript is a superset of javascript.It is a advanced version of javascript.
+	It won't run directly in the browser.
+	TypeScript may be used to develop JavaScript applications for both client-side and server-side execution.
+	
+What is the difference between the build and serve
+	ng build:
+		ng build defines all the files that are in the src file like html, css, javascript and typescript are compiling and
+		getting no errors after that are stored in distribution folder(dist) after it creating web application.
+		It is used to build our application and deploys it.
+		
+	ng serve:
+		ng serve is used to for build an applicaton and it will serve an application when we are developing.
+		while we are running the server it will automatically reload if a file changed and making the development is quick and easy.
+		This command build deploy serves and everytime watches if we are changing the code.If finding any changes code it will build
+		and serve automatically.
+How an angular app get started and loaded?
+	The process it will started with index.html.In index.html it will configure the main.ts.
+	In main.ts we have "platformBrowserDynamic" that bootstraps the "appModule" by invoking the "bootstrapmodule" function.
+	syntax:
+		platformBrowserDynamic().bootstrapModule(AppModule)
+	After that main.ts configure the "app.Module.ts".
+	In app.Module.ts we have bootsrap:[appcomponent] syntax, then it configure "app.component.ts".
+	In app.component.ts we have selector, templateurl, styleurls.
+		
+		selector is having "app-root".
+			selector: 'app-root'
+			
+		templateurl is having html file.
+			templateUrl: './app.component.html'
+			
+		styleurls having css file.
+			styleUrls: ['./app.component.css']
+			
+	The process for angular application:
+	
+		index.html
+			main.ts
+				app.routing.ts
+					app.module.ts
+							app.component.ts
+									app.component.html
+											index.html
+						
+					
+		
+
+	
+		
