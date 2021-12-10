@@ -1,0 +1,25 @@
+What is Javascript?
+	JavaScript is the world's most popular programming language.
+	JavaScript is the programming language of the Web and easy to learn.
+	JavaScript is one of the 3 languages all web developers.They are
+		1.HTML to specify the content of web pages.
+		2.CSS to specify the layout of web pages.
+		3.JavaScript to program the behavior of web pages.
+	JavaScript is a text-based programming language used both on the client-side and server-side that allows you to make web pages interactive.
+	Where HTML and CSS are languages that give structure and style to web pages.
+	JavaScript gives web pages interactive elements that engage a user.
+	
+	NOTE:JavaScript accepts both double and single quotes.
+	
+	1.Javascript can change HTML attributes values.
+		JavaScript changes the value of the src (source) attribute of an <img> tag.
+	2.javascript can change HTML styles(css).
+	
+	Javascript can change HTML content.
+		Many JavaScript HTML methods is getElementById().
+	Javascript can Hide HTML Elements.
+		HTML elements can be done by changing the display style.
+	Javascript can show the hidden HTML elements.
+		Showing hidden HTML elements can also be done by changing the display style.
+	
+		
