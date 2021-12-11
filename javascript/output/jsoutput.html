@@ -1,18 +1,18 @@
 <!DOCTYPE html>
 <html>
-	<head></head>
-	<body>
-	<h2>innerHTML</h2>
-	<p id="inner"></p>
-	<h2>document.write</h2>
-	<button type="button" onclick="document.write(14+5)">click me!</button>
-	<button type="button" onclick="window.print()">print</button>
-	<script>
-		document.getElementById('inner').innerHTML=10+15;
-		document.write('welcome js output');
-		window.alert('welcome js output display');
-		console.log(8 + 8);
-	
-	</script>
+	<head>
+		<script src="jsoutput.js"></script>
+	</head>
+	<body onload="onload()">
+		<h2>innerHTML</h2>
+		<p id="add1"></p>
+		<button type="button" onclick="add()">click me!</button>
+		<h2>document.write</h2>
+		<p id="doc1"> my paragraph.</p>
+		<button type="button" onclick="doc()">click on me</button>
+		<h2>print purpose</h2>
+		<button type="button" onclick="print()">print!</button>
+		<h2>document.write</h2>
+		<button type="button" onclick="document.write(12+12)">click me!!</button>
 	</body>
 </html>

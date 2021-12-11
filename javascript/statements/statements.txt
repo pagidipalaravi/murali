@@ -1,0 +1,35 @@
+What is JS statements?
+	This is a computer program is a list of "instructions" to be "executed" by a computer,
+	these programming instructions are called "statements".
+	JavaScript program is a list of programming statements.
+	
+	JavaScript statements:
+	JavaScript statements are composed of Values, Operators, Expressions, Keywords, and Comments.
+	
+	NOTE:
+		JavaScript programs or JavaScript statements are often called "JavaScript code".
+		
+	Semicolons:
+		Semicolons are used to separate JavaScript code.
+		Semicolon at the end of each executable statement.
+		Example:
+			a=10;
+			b=20;
+			c=a+b;
+	JavaScript Whitspace:
+		JavaScript ignores multiple spaces and add white space to your script to make it more readable.
+	JavaScript line length and line break:
+		Example:
+			document.getElementById('demo').innerHTML=
+			"javascript";
+	JavaScript code Blocks:
+		JavaScript statements can be grouped together in code blocks, inside curly brackets {...}.
+		We are used to one function name and multiple id names then we can excuted code.
+		Example:
+			function demo(){
+				document.getElementById("demo1").innerHTML="welcome";
+				document.getElementById('demo2').innerHTML='come';
+			}
+	We have JavaScript keywords.
+
+										   
