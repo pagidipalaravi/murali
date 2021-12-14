@@ -1,0 +1,35 @@
+What is comments?
+	JavaScript comments can be used to explain JavaScript code and more readable.
+	It is also used to prevent execution.
+	
+	JavaSCript comments are divided into 2 types:
+		1.Single Line comments.
+		2.Multi-Line Comments.
+		
+	1.Single Line Comments:
+		Single line comments start with //.
+		Any text between // and the end of the line will be ignored by JavaScript (will not be executed).
+		EX:
+			let l, m;	//single line comment
+            	l=10;
+				m=20;
+				
+	2.Multi-Line Comments:
+		Multi-line comments start with /* and end with */.
+		Any text between /* and */ will be ignored by JavaScript.
+		EX:
+			/*java
+				HTML
+				CSS
+				JavaScript*/
+				
+	Using Comments to Prevent Execution:
+		Using comments to prevent execution of code is suitable for code testing.
+		Adding // in front of a code line changes the code lines from an executable line to a comment.
+		
+		EX:
+			1.// document.getElementById('paragraph').innerHTML="start paragraph";
+			
+			2./* document.getElementById('paragraph').innerHTML="start paragraph";
+			 document.getElementById('paragraph').innerHTML="start paragraph";/*
+		

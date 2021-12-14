@@ -1,0 +1,123 @@
+What is syntax?
+	JavaScript syntax is the set of rules.It is used to programs are constructed.
+	Javascript syntax are divided into 2 types.They are	
+		1.Fixed values
+		2.variable values
+	1.Fixed values:
+		Fixed values are also called as"Literals".
+	2.Variable values:
+		Variable values are also called as"variables".
+	
+	JavaScript Literals:
+		It is having 2 most important syntax's.
+			1.Numbers.
+			2.Strings.
+		1.Numbers:
+			Numbers are written with or without decimals.
+			 EX:
+				256,(number type)
+				256.56(decimaltype)
+		2.Strings:
+			Strings are text, written within double or single quotes.
+			EX:
+				"murali"
+				'murali'
+	JavaScript Variables:
+		Variables are used to store data values.
+		JavaScript uses the keywords var, let and const to declare variables.
+		"Equal sign" is used to assign values to "variables".
+		let x;(x is a variable)
+		x = 10;(10 is data,it is store in 'x' variable)
+		
+	JavaScript Operators:
+		JavaScript uses arithmetic operators ( + - * / ) to compute values.
+		JavaScript uses an "assignment operator" ( = ) to assign values to variables:
+			'+' (addition)
+			'-' (substraction)
+			'*' (multiplication)
+			'/' (division)
+			
+		EX:
+			x = 10+2*4/4;
+	JavaScript Expressions:
+		JavaScript expression is a combination of values, variables, and operators, which computes to a value.
+		The computation is called an "Evaluation".
+		EX:
+			10*30;
+		Expressions can also contain variable values.
+		EX:
+			var x;
+			x=10*2;
+			x*10;
+	The values can be of various types, such as numbers and strings.
+		EX:
+			"java" + " " + "Script";
+	
+	JavaScript Keywords:
+		JavaScript keywords are used to identify actions to be performed.
+		The "let" keyword tells the browser to create variables:
+			EX:
+				let l,m,n;
+				l=10;
+				m=20;
+				n=l+m;
+		The "var" keyword also tells the browser to create variables:
+			EX:
+				var p, q;
+				p=40; q=40;
+				
+	JavaScript comments:
+		JavaScript statements are Not all "executed".
+		Code after double slashes // or between /* and */ is treated as a "comment".
+			comments tag:
+					1.// (single statement comment)
+					2./* and */(multiple statements comment)
+					
+				EX:
+					x=10;// statement
+	JavaScript Identifiers:
+		Identifiers are "names".
+		JavaScript identifiers are used to name variables (keywords, functions and labels).
+		In JavaScript, the first character must be a letter, or an underscore (_), or a dollar sign ($).
+			EX:
+				m or _ or $; and m_&;
+	NOTE:
+		"Numbers" not allowed in as a First Character.
+		
+	JavaScript is a CaseSensitive:
+		All JavaScript identifiers are case sensitive. 
+		EX:
+			jammuKashmir;
+	NOTE:
+		JavaScript does not interpret LET or Let as the keyword "let".
+		
+	JavaScript and Camelcase:
+		Historically, programmers have used different ways of joining multiple words into one variable name.
+		
+		1.Hyphens(-);
+			first-name,FIRST-NAME,middle-Name are examples for Hyphens.
+		NOTE:
+			Hyphens are not allowed in JavaScript. They are reserved for subtractions.
+			
+		2.Underscore:
+				first_name, last_Name, mumbai_Hyderabad etc..
+				
+		3.Upper Camel Case (Pascal Case):
+			UpperCamel Case are also called as"PascalCase";
+				FirstName, LastName, HtmlCss etc..
+				
+		4.Lower camel case:
+			Camel Case that starts with a lowercase letter.
+			firstName, lastName, middleName etc..
+		
+	JavaScript Character set:
+		JavaScript uses the "Unicode" character set.
+		Unicode covers (almost) all the characters, punctuations, and symbols in the world.
+			
+			punctuation:
+				. , ? etc..
+			symbols:
+				$, # etc..
+				
+			
+		

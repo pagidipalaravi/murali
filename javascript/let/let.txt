@@ -1,0 +1,80 @@
+What is let?
+	"let" is Javascript variable.
+	The "let" keyword was introduced in ES6 (2015).
+	"let" variable "Re-Declaration" is not possible.
+	"let" variable defines with "Block Scope".
+
+Cannot be "Re-Declaration":
+	EX:
+		let x = 50;
+			x = 60; // Error because 'x' has already been Declared
+			
+Block Scope:
+	JavaScript had only Global Scope and Function Scope.
+	ES6 introduced two important new JavaScript keywords.They are
+		1.let 
+		2.const
+	These two keywords provide Block Scope in JavaScript.
+	Variables declared inside a { } block cannot be accessed from outside the block:
+		EX:
+			{
+				//blockScope
+					let x = 10;
+			} // 'x' is not used here
+	Variables declared with the var keyword can NOT have block scope.		
+		EX:	
+			{
+				//blockScope
+				 var x = 10;
+			} // 'x' is used here 
+			
+	Variables declared inside a { } block can be accessed from outside the block.
+	
+Re-Declaring Variables:
+	Redeclaring a variable using the "var" keyword.
+	Redeclaring a variable "inside a block" will also Redeclare the variable "outside the block".
+	
+	EX:
+		var x = 50; // outside the block
+		{
+			var x = 40; // inside the block
+		}
+		ouput: 40
+		
+	Redeclaring a variable using the "let" keyword.
+	Redeclaring a variable "inside a block" will not redeclare the variable outside the block.
+	
+		EX:
+			let x = 80;
+			{
+				let x = 90;
+			}
+		output:	80
+		
+Browser Support:
+	The "let" keyword is not fully supported in Internet Explorer 11 or earlier.
+	The first browser versions with full support for the "let" keyword.
+		EX:
+			chrome, edge, firebox etc..
+			
+Re-Declaration:
+	Redeclaring a JavaScript variable with "var".
+	EX:
+		var x = 25;
+		var x = 35; // It will take reDeclare method
+		ouput:	35
+	Re-Declaration JavaScript variable with "let".
+		EX:
+			let x = 33;
+			let x = 44; // It will not take reDeclare method
+			output:	33
+	Redeclaring a variable with "let" in another block is allowed.
+		EX:
+			let x = 10; //allowed
+			}
+				let x = 20;	//allowed
+			{
+				let x = 30; //allowed
+			}
+		output:	10
+		
