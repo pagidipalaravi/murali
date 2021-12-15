@@ -1,0 +1,73 @@
+What is arithmetic?
+	Arithmetic operators perform arithmetic on numbers.
+	They are:
+		+ 	 -		Addition
+		-	 -		Subtraction
+		*	 -		Multiplication
+		**	 -	    Exponentiation
+		/ 	 -		Division
+		% 	 -		Modulus (Division Remainder)
+		++	 -	    Increment
+		-- 	 -	    Decrement
+Addition operator:
+	It is used to add numbers.
+	EX:
+		let x = 1001 + 505;
+Subtracting:
+	The subtraction operator (-) subtracts numbers.
+	EX:
+	let x = 1001 - 505;
+Multiplying:
+	The multiplication operator (*) multiplies numbers.
+	EX:
+	let x = 1001 * 505;
+Dividing:
+	The division operator (/) divides numbers.
+	EX:
+	let x = 100 ; 
+	let	y = 50;
+	let z = x / y;
+Remainder:
+	The modulus operator (%) returns the division remainder.
+	EX:
+	let x = 100 ; 
+	let	y = 50;
+	let z = x % y;
+Incrementing:
+	The increment operator (++) increments numbers.
+	EX:
+		let x = 30;
+			x++;
+		let z = x;
+		output: 31
+Decrementing"
+	The decrement operator (--) decrements numbers.
+	EX:
+	let x = 30;
+		x++;
+	let z = x;
+		output: 29
+Exponentiation:
+	The exponentiation operator (**) raises the first operand to the power of the second operand.
+	EX:
+		let x = 4;
+		let z = x ** 3; 
+		output: 64
+		
+	x ** y produces the same result as Math.pow(x,y).
+	EX:
+		let x = 4;
+		let z = Math.pow(x,3); 
+		output:	64
+		
+Operator Precedence:
+	Operator precedence describes the order in which operations are performed in an arithmetic expression.
+	EX:
+		let x = 50 * 2 + 10;(BODMAS RULE)
+		output: 110
+	
+		
+		
+		
+		
+		

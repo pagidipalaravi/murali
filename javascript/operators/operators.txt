@@ -1,0 +1,77 @@
+What is operators?
+	The assignment operator (=) assigns a value to a variable.
+	The addition operator (+) adds numbers.
+	The multiplication operator (*) multiplies numbers.
+	
+JavaScript Arithmetic Operators:
+	Arithmetic operators are used to perform arithmetic on numbers.
+	They are:
+		+ 	 -		Addition
+		-	 -		Subtraction
+		*	 -		Multiplication
+		**	 -	    Exponentiation
+		/ 	 -		Division
+		% 	 -		Modulus (Division Remainder)
+		++	 -	    Increment
+		-- 	 -	    Decrement
+		
+JavaScript Assignment Operators:
+	Assignment operators assign values to JavaScript variables.
+	They are:
+	
+		Operator	Example		Same As
+			=		x = y		x = y
+			+=		x += y		x = x + y
+			-=		x -= y		x = x - y
+			*=		x *= y		x = x * y
+			/=		x /= y		x = x / y
+			%=		x %= y		x = x % y
+			**=		x **= y		x = x ** y
+			
+JavaScript String Operators:
+	The "+" operator can also be used to add (concatenate) strings.
+	EX:
+		let x = "murali" + "krishna";
+Adding Strings and Numbers:
+	Adding two numbers, will return the sum, but adding a number and a string will return a string.
+	EX:
+		let x = 1 + "murali" + 3;
+		ouput: 1murali3
+		
+JavaScript Comparison Operators:
+	Comparison Operators are:
+	
+				Operator:	Description:
+					==		equal to
+					===		equal value and equal type
+					!=		not equal
+					!==		not equal value or not equal type
+					>		greater than
+					<		less than
+					>=		greater than or equal to
+					<=		less than or equal to
+					?		ternary operator
+					
+JavaScript Logical Operators:
+	Operator	Description
+		&&		 and
+		||		 or
+		!		 not
+		
+JavaScript Type Operators:
+		Operator	Description
+		typeof		Returns the type of a variable
+		instanceof	Returns true if an object is an instance of an object type
+		
+JavaScript Bitwise Operators:
+	Bit operators work on 32 bits numbers.
+	
+		Operator	Description					Example			Same as			Result			Decimal
+			&			AND						5 & 1			0101 & 0001		0001	 			1
+			|			OR						5 | 1			0101 | 0001		0101	 			5
+			~			NOT						~ 5	 			~0101			1010	 			10
+			^			XOR						5 ^ 1			0101 ^ 0001		0100	 			4
+			<<		 	Zero fill left shift	5 << 1			0101 << 1		1010	 			10
+			>>			Signed right shift		5 >> 1			0101 >> 1		0010	  			2
+			>>>			Zero fill right shift	5 >>> 1			0101 >>> 1		0010	  			2
+			

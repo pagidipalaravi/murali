@@ -1,0 +1,45 @@
+What is assignment operator?
+	Assignment operators assign values to JavaScript variables.
+	They are:
+		Operator	Example		Same As
+			=		x = y		x = y
+			+=		x += y		x = x + y
+			-=		x -= y		x = x - y
+			*=		x *= y		x = x * y
+			/=		x /= y		x = x / y
+			%=		x %= y		x = x % y
+			**=		x **= y		x = x ** y
+			
+The = assignment operator assigns a value to a variable.
+	EX:
+		let x = 10;
+		output: 10
+The += assignment operator adds a value to a variable.
+	EX:
+		let x = 90;
+			x += 10;
+		output:100
+The -= assignment operator subtracts a value from a variable.
+	EX:
+	let x = 90;
+		x -= 10;
+		output:80
+The *= assignment operator multiplies a variable.
+	EX:
+	let x = 10;
+		x *= 10;
+		output:100
+The /= assignment divides a variable.
+	EX:
+	let x = 10;
+		x /= 10;
+		output:1
+The %= assignment operator assigns a remainder to a variable.
+	EX:
+	let x = 10;
+		x %= 10;
+		output:0
+		
+		
+		
+		

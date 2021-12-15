@@ -1,0 +1,84 @@
+What is JS const?
+	"Const" is the JavaScript variable.It is introduced in ES6 (2015).
+	The const cannot be ReDeclaring and Reassigned.
+	Variables defined with const have Block Scope.
+	
+Cannot be Reassigned:
+	const variable cannot be reassigned.
+	
+			EX: 
+			const carName = "bmw";
+					carName = "audi";
+Must be assigned:
+	const variables must be assigned a value are Declared.
+		EX:
+			const carName = "BMW";
+
+Block Scope:
+	Declaring a variable with const is similar to let in blockscope.
+	
+	EX:
+		const x = 10;
+		{
+			const x = 20;
+		}
+		{
+			const x = 30;
+		}
+		
+		output: x = 10
+
+ReDeclaring:
+	Redeclaring "var" variable is allowed anywhere in a program.
+	
+	EX:
+		var x =45;
+		var x = 55;
+			x = 66;
+			
+		output:66
+
+Redeclaring an existing var or let variable to const, in the same scope, is not allowed.
+	
+	EX:
+		var x = 10; // allowed
+		const x = 10; // not allowed
+		{
+			let x = 20; // allowed
+			const x = 20; // not allowed
+		}
+		{
+			const x = 40; // allowed
+			const x = 40; // not allowed
+		}
+		
+Reassigning an existing const variable, in the same scope, is not allowed.
+	
+	EX:
+		const x = 35; // Allowed
+			x = 35;  // Not allowed
+		var x = 35; // Not allowed
+		let x = 35;  // Not allowed
+		const x = 35; // Not allowed
+		{
+			const x = 45; / Allowed
+			 x = 45;   // Not allowed
+			 var x = 45; // Not allowed
+			 let x = 45; // Not allowed
+			 const x = 45; // Not allowed
+		}
+		
+Redeclaring a variable with const, in another scope, or in another block, is allowed.
+	
+	EX:
+		const x = 29; // Allowed
+			{
+			  const x = 35; // Allowed
+			}
+
+			{
+			  const x = 45; // Allowed
+			}
+				
+		output:	29
+	
