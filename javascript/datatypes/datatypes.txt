@@ -1,0 +1,97 @@
+What is Datatypes?
+	Datatype:
+		Datatype is used to store the data in the variables.
+		Datatypes are numbers, decimal, string and boolean expressions(true or false)etc..
+		[or]
+	JavaScript variables can hold different data types: numbers, strings, objects and more.
+	
+Concept of Data Types:
+	In programming, data types is an important concept.
+	Datatype is used to operate on variables, Without data types, a computer cannot solve.
+	JavaScript evaluates expressions from left to right.
+
+JavaScript Types are Dynamic:	
+	JavaScript has dynamic types. This means that the same variable can be used to store different data types.
+	
+	EX:
+		let x = 10;
+			x = 20;
+			x = "javascript is a dynamic";
+			output:
+				javascript is a dynamic
+				
+JavaScript Strings:
+	String is used to specify type of text.
+	Strings are written with quotes. You can use "single" or "double" quotes.
+		EX:
+			"java";
+			'java';
+	[or]
+	
+	String is a type of names like "java" and "HTML" etc..
+	
+	[or]
+	
+	String is used to specify the one or more characters of the names.
+		EX:
+			"java";
+			
+JavaScript Numbers:
+	JavaScript has only one type of numbers.
+	Numbers can be written with, or without decimals.
+	
+	EX:
+		let x1 = 1234; // number type
+		let x2 = 1234.56; // decimal type
+		
+JavaScript Booleans:
+	Boolean expressions having two values like true or false.
+	
+	EX:
+		let x = 58;
+		let y = 58;
+		let z = 68;
+		(x == y)  // true
+		(x == z)  // false  
+		
+JavaScript Arrays:
+	JavaScript arrays are written with square brackets[].
+	Array items are separated by commas.
+	Array indexes are zero-based, which means the first item is [0], second is [1],etc..
+	
+	EX:
+		let bikeName = ["Honda", "Yamaha", "Tiger"]; // array type values
+		
+		values:	"Honda", - [o]
+				"Yamaha",- [1]
+				"Tiger"  - [2]
+				
+JavaScript Objects:
+	JavaScript objects are written with curly braces {}.
+	Object properties are written as name:value pairs, separated by commas.
+	
+	EX:
+		const person = {firstName:"murali", lastName:"krishna"};
+		
+typeof Operator:
+	JavaScript "typeof" operator to find the type of a JavaScript variable.
+	The "typeof" operator returns the type of a variable or an expression.
+	
+	EX:
+		typeof 123 // it is a number
+		typeof "javaScript" // String
+		
+Undefined:
+	In JavaScript, a variable without a value, has the value Undefined.
+	The type is also "Undefined".
+
+	EX:
+		let carName; // undefined
+		
+Empty Values:
+	Empty value has nothing to do with "undefined".
+	Empty string has both a legal value and a type.
+	
+	EX:
+		let x = ""; // typeof value: String
+		
